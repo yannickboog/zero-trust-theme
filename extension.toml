@@ -1,7 +1,7 @@
 id = "modern-zed-theme"
 name = "Modern Zed Theme"
 description = "A clean and modern theme for Zed featuring light and dark variants with excellent readability and professional color schemes"
-version = "0.1.0"
+version = "0.2.0"
 schema_version = 1
 authors = ["Yannick Boog"]
 repository = "https://github.com/yannickboog/modern-zed-theme"
