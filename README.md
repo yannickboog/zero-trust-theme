@@ -1,6 +1,6 @@
-# Modern Zed Theme
+# Zero Trust Theme
 
-A clean and modern theme for Zed editor featuring carefully crafted light and dark variants with excellent readability and professional visual appeal.
+A clean and secure theme for Zed editor featuring carefully crafted light and dark variants with excellent readability and professional visual appeal.
 
 ## Features
 
@@ -15,7 +15,7 @@ A clean and modern theme for Zed editor featuring carefully crafted light and da
 ### Method 1: Manual Installation
 
 1. Clone or download this theme
-2. Copy the `modern-zed-theme` folder to your Zed extensions directory:
+2. Copy the `zero-trust-theme` folder to your Zed extensions directory:
    - **macOS**: `~/.config/zed/extensions/`
    - **Linux**: `~/.config/zed/extensions/`
    - **Windows**: `%APPDATA%\Zed\extensions\`
@@ -23,7 +23,7 @@ A clean and modern theme for Zed editor featuring carefully crafted light and da
 3. Restart Zed
 4. Open Zed settings (Cmd/Ctrl + ,)
 5. Go to the "Theme" section
-6. Select "Modern Zed Light" or "Modern Zed Dark"
+6. Select "Zero Trust Light" or "Zero Trust Dark"
 
 ### Method 2: Development Mode
 
@@ -62,7 +62,7 @@ The theme provides distinct colors for:
 ## Contributing
 
 Feel free to customize this theme further by:
-1. Modifying colors in `themes/modern-zed.json`
+1. Modifying colors in `themes/zero-trust.json`
 2. Adjusting the `extension.toml` metadata
 3. Testing with your preferred programming languages
 4. Opening issues or pull requests for improvements
@@ -92,7 +92,7 @@ Contributions are welcome! Please feel free to:
 
 ```bash
 cd ~/.config/zed/extensions/
-git clone https://github.com/yannickboog/modern-zed-theme.git modern-zed-theme
+git clone https://github.com/yannickboog/zero-trust-theme.git zero-trust-theme
 ```
 
 Then restart Zed and select the theme in your settings.
