@@ -1,7 +1,7 @@
 id = "zero-trust-theme"
 name = "Zero Trust Theme"
 description = "A clean and secure theme for Zed featuring light and dark variants with excellent readability and professional color schemes"
-version = "0.1.0"
+version = "0.2.1"
 schema_version = 1
 authors = ["Yannick Boog"]
 repository = "https://github.com/yannickboog/zero-trust-theme"
